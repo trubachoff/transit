@@ -1,0 +1,8 @@
+include:
+    - "./test"
+    - "./test2"
+    - "abc"
+    - "def"
+exclude:
+    - "*.tmp"
+    - "*.rb"
